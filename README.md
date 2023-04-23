@@ -1,6 +1,5 @@
-# 🤖 Daneel
 
-## Create your own GPT-powered chat bot
+## 
 
 You can use this template to create your own chat bot powered by OpenAI and the
 ChatGPT API. It includes an easily-customized chat interface with streaming
@@ -8,10 +7,6 @@ responses so you can see the bot type, message history, simple styling with
 Tailwind and a Netlify edge function that communicates securely with the OpenAI
 API, and. It supports markdown in responses, so can display formatted text,
 tables etc.
-
-### [Demo site](https://daneel-demo.netlify.app/).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ascorbic/daneel)
 
 ## Features
 
